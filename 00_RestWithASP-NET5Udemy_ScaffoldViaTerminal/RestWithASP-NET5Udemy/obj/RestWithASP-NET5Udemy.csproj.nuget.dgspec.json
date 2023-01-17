@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj": {}
+    "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\00_RestWithASP-NET5Udemy_ScaffoldViaTerminal\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj": {
+    "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\00_RestWithASP-NET5Udemy_ScaffoldViaTerminal\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj",
+        "projectUniqueName": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\00_RestWithASP-NET5Udemy_ScaffoldViaTerminal\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj",
         "projectName": "RestWithASP-NET5Udemy",
-        "projectPath": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj",
+        "projectPath": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\00_RestWithASP-NET5Udemy_ScaffoldViaTerminal\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy.csproj",
         "packagesPath": "C:\\Users\\SC90746\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\obj\\",
+        "outputPath": "C:\\Users\\SC90746\\Documents\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\00_RestWithASP-NET5Udemy_ScaffoldViaTerminal\\RestWithASP-NET5Udemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SC90746\\AppData\\Roaming\\NuGet\\NuGet.Config",
